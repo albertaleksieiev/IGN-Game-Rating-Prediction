@@ -4,13 +4,16 @@ Trying to predict average game rating. Use column ['score_phrase'] in sentementa
 Build NN with more than one inputs, and more than one layers to merge.
 # Dependencies
  - pandas
-sad - d
+ - tflearn
+ - tensorflow
  - numpy
  - sklearn
  
 #Result
- Total loss for regression ~ 1.1
+ Achitecture : 
  ![achitecture]( https://github.com/AlfredNeverKog/IGN-Game-Rating-Prediction/raw/master/architecture.png)
+ Loss:
+ ![loss]( https://github.com/AlfredNeverKog/IGN-Game-Rating-Prediction/raw/master/loss.png)
 
  
- 
+ Total loss for regression ~ 0.9
