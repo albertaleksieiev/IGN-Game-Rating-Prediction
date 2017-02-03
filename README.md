@@ -24,6 +24,7 @@ Loss(step 70k-200k):
 
 
 
- - Training Step: 200068  | total loss: 0.52506
+ 
  - Training Step: 38334  | total loss: 1.06394
  - Training Step: 144524  | total loss: 0.73067
+ - Training Step: 200068  | total loss: 0.52506
