@@ -16,4 +16,4 @@ Build NN with more than one inputs, and more than one layers to merge.
  ![loss]( https://github.com/AlfredNeverKog/IGN-Game-Rating-Prediction/raw/master/loss.png)
 
  
- Total loss for regression ~ 0.9
+ ##### Training Step: 38334  | total loss: 1.06394
