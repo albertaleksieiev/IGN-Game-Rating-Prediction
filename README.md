@@ -10,10 +10,12 @@ Build NN with more than one inputs, and more than one layers to merge.
  - sklearn
  
 #Result
- Achitecture : 
- ![achitecture]( https://github.com/AlfredNeverKog/IGN-Game-Rating-Prediction/raw/master/architecture.png)
+ Achitecture: 
+ ![achitecture]( https://github.com/AlfredNeverKog/IGN-Game-Rating-Prediction/images/raw/master/architecture.png)
  Loss:
- ![loss]( https://github.com/AlfredNeverKog/IGN-Game-Rating-Prediction/raw/master/loss.png)
+ ![loss]( https://github.com/AlfredNeverKog/IGN-Game-Rating-Prediction/images/raw/master/loss.png)
+ Loss(step 34k-38k):
+ ![loss_next]( https://github.com/AlfredNeverKog/IGN-Game-Rating-Prediction/images/raw/master/loss_1.png)
 
  
  ##### Training Step: 38334  | total loss: 1.06394
