@@ -18,8 +18,12 @@ Build NN with more than one inputs, and more than one layers to merge.
  ![loss]( https://github.com/AlfredNeverKog/IGN-Game-Rating-Prediction/raw/master/images/loss_1.png)
 Loss(step 70k-145k):
  ![loss]( https://github.com/AlfredNeverKog/IGN-Game-Rating-Prediction/raw/master/images/loss_70-145.png)
+Loss(step 70k-200k):
+ ![loss]( https://github.com/AlfredNeverKog/IGN-Game-Rating-Prediction/raw/master/images/loss_70-200.png)
+ ![loss]( https://github.com/AlfredNeverKog/IGN-Game-Rating-Prediction/raw/master/images/loss_70-200-big.png)
 
 
- 
+
+ - Training Step: 200068  | total loss: 0.52506
  - Training Step: 38334  | total loss: 1.06394
  - Training Step: 144524  | total loss: 0.73067
